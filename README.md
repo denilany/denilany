@@ -19,8 +19,8 @@ I'm Denil, an aspiring and a  passionate Full Stack Web Developer with a keen in
 
 #### Let's Connect:
 
-📫 [Email](mailto:denil@example.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/denil/)  
+📫 [Email](mailto:denilanyonyi1@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/denil-anyonyi/)  
 🐦 [Twitter](https://twitter.com/denil_dev)  
 🌐 [Portfolio](https://www.denil.dev)  
 
