@@ -1,8 +1,8 @@
-# 👨‍💻 Denil | Full Stack Web Developer & Cybersecurity Enthusiast
+# 👨‍💻 Denil | Full Stack Developer & Cybersecurity Enthusiast
 
 #### Welcome to my digital playground! 🚀
 
-I'm Denil, an aspiring and a  passionate Full Stack Web Developer with a keen interest in Cybersecurity. With a solid foundation in HTML and CSS, coupled with proficiency in JavaScript and Golang, I'm on a journey to build secure, cutting-edge web applications.
+I'm Denil, an aspiring and a  passionate Full Stack Developer with a keen interest in Cybersecurity. With a solid foundation in HTML and CSS, coupled with proficiency in JavaScript and Golang, I'm on a journey to build secure, cutting-edge web applications.
 
 #### What I Bring to the Table:
 
