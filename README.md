@@ -22,7 +22,7 @@ I'm Denil, an aspiring and a  passionate Full Stack Developer with a keen intere
 📫 [Email](mailto:denilanyonyi1@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/denil-anyonyi/)  
 🐦 [Twitter](https://twitter.com/denil_dev)  
-🌐 [Portfolio](https://www.denil.dev)  
+🌐 [Portfolio](https://denilany.github.io/My-Portfolio/)  
 
 #### What I'm Up To:
 
