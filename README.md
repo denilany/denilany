@@ -2,7 +2,7 @@
   
 # 👋 Hi, I'm Denil Anyonyi
 
-### 💻 Full Stack Developer | 🚀 Building Scalable Web Solutions | 🎨 UI/UX Focused
+### Full Stack Developer | Building Scalable Web Solutions | UI/UX Focused
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://dev-denil.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/denil-anyonyi/)
@@ -13,7 +13,7 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 ```javascript
 const denil = {
@@ -29,7 +29,7 @@ I'm a passionate full stack developer who loves crafting elegant solutions to co
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -61,7 +61,7 @@ I'm a passionate full stack developer who loves crafting elegant solutions to co
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   
@@ -75,7 +75,7 @@ I'm a passionate full stack developer who loves crafting elegant solutions to co
 
 ---
 
-## 🏆 Featured Projects
+## Featured Projects
 
 ### 🔗 [Quotient FX](https://github.com/denilany/Quotient_fx)
 > Forex mentorship platform with modern UI/UX
@@ -87,23 +87,23 @@ I'm a passionate full stack developer who loves crafting elegant solutions to co
 > Two-player game built with Go
 - **Tech Stack:** Go
 - **Features:** CLI-based gameplay, clean code architecture
-- 💡 Demonstrates algorithmic thinking and Go proficiency
+- Demonstrates algorithmic thinking and Go proficiency
 
-### 🌳 [Linktree Clone](https://github.com/denilany/linked-tree-clone)
+### [Linktree Clone](https://github.com/denilany/linked-tree-clone)
 > Personal link management solution
 - **Tech Stack:** HTML, CSS, JavaScript
 - **Features:** Responsive design, easy link management
-- 🎨 Clean and modern UI
+- Clean and modern UI
 
 ---
 
-## 📈 Contribution Graph
+## Contribution Graph
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=denilany&theme=react-dark&hide_border=true&area=true)
 
 ---
 
-## 🎯 Current Focus
+## Current Focus
 
 ```yaml
 Learning:
@@ -128,18 +128,18 @@ Goals_2025:
 
 ---
 
-## 💡 Fun Facts
+## Fun Facts
 
-- 🚀 I build applications that users love
-- 🌱 Always learning the latest web technologies
-- ☕ Powered by coffee and creative problem-solving
-- 🎯 Believer in clean code and best practices
-- 🤝 Open to collaborating on innovative web projects
-- 🎨 Design-minded developer who cares about UX
+- I build applications that users love
+- Always learning the latest web technologies
+- Powered by coffee and creative problem-solving
+- Believer in clean code and best practices
+- Open to collaborating on innovative web projects
+- Design-minded developer who cares about UX
 
 ---
 
-## 📫 Let's Connect!
+## Let's Connect!
 
 I'm always interested in hearing about new projects and opportunities. Whether you want to collaborate, need help with a project, or just want to chat about tech, feel free to reach out!
 
