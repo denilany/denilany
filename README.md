@@ -73,29 +73,6 @@ I'm a passionate full stack developer who loves crafting elegant solutions to co
 
 </div>
 
----
-
-## Featured Projects
-
-### 🔗 [Quotient FX](https://github.com/denilany/Quotient_fx)
-> Forex mentorship platform with modern UI/UX
-- **Tech Stack:** HTML, CSS, JavaScript
-- **Features:** Responsive design, interactive components, educational content
-- 🔗 [Live Demo](#)
-
-### 🎮 [Tic-Tac-Toe (Go)](https://github.com/denilany/tic-tac-toe-go)
-> Two-player game built with Go
-- **Tech Stack:** Go
-- **Features:** CLI-based gameplay, clean code architecture
-- Demonstrates algorithmic thinking and Go proficiency
-
-### [Linktree Clone](https://github.com/denilany/linked-tree-clone)
-> Personal link management solution
-- **Tech Stack:** HTML, CSS, JavaScript
-- **Features:** Responsive design, easy link management
-- Clean and modern UI
-
----
 
 ## Contribution Graph
 
