@@ -18,7 +18,7 @@
 ```javascript
 const denil = {
     location: "Kenya 🇰🇪",
-    organization: "Zone01 Kisumu",
+    organization: "Excite Innovation Company",
     currentFocus: ["Full Stack Development", "Modern Web Architecture", "Open Source"],
     funFact: "I turn coffee into code and ideas into applications! ☕",
     lookingFor: "Exciting opportunities to build innovative, scalable web applications"
